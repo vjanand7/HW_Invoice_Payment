@@ -1,0 +1,14 @@
+[
+    {
+        "invoice_no": "INV-101",
+        "paid": 85000
+    },
+    {
+        "invoice_no": "INV-104",
+        "paid": 60000
+    },
+    {
+        "invoice_no": "INV-109",
+        "paid": 12000
+    }
+]
