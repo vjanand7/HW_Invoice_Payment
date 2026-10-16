@@ -1,0 +1,65 @@
+[
+    {
+        "invoice_no": "INV-101",
+        "vendor_name": "Stark Industries",
+        "invoice_amount": 85000,
+        "status": "PENDING",
+        "date": "2026-09-03"
+    },
+    {
+        "invoice_no": "INV-102",
+        "vendor_name": "OScorp",
+        "invoice_amount": 142500,
+        "status": "pending",
+        "date": "2026-09-05"
+    },
+    {
+        "invoice_no": "INV-101",
+        "vendor_name": "Stark Industries",
+        "invoice_amount": 85000,
+        "status": "PENDING",
+        "date": "2026-09-03"
+    },
+    {
+        "invoice_no": "INV-103",
+        "vendor_name": "Pym Technologies",
+        "invoice_amount": -550000,
+        "status": "PENDING",
+        "date": "2026-09-07"
+    },
+    {
+        "invoice_no": "INV-104",
+        "vendor_name": "Stark Industries",
+        "invoice_amount": 62000,
+        "status": "PAID",
+        "date": "2026-09-08"
+    },
+    {
+        "invoice_no": "INV-102",
+        "vendor_name": "OScorp",
+        "invoice_amount": 150000,
+        "status": "PENDING",
+        "date": "2026-09-12"
+    },
+    {
+        "invoice_no": "INV-105",
+        "vendor_name": "Globex",
+        "invoice_amount": 550000,
+        "status": "PENDING",
+        "date": "2026-09-09"
+    },
+    {
+        "invoice_no": "INV-106",
+        "vendor_name": "Creative Solutions",
+        "invoice_amount": null,
+        "status": "PENDING",
+        "date": "2026-09-15"
+    },
+    {
+        "invoice_no": "INV-107",
+        "vendor_name": "ABC Ltd",
+        "invoice_amount": 85000,
+        "status": "PENDING",
+        "date": "2026-09-03"
+    }
+]
